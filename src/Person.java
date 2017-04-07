@@ -11,7 +11,7 @@ public class Person {
     public void setName(String name1){
         name=name1;
     }
-    public String getNane(){
+    public String getName(){
         return name;
     }
     public void setId(String id1){
